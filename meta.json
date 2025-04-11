@@ -3,11 +3,7 @@
     "hotfixesFormat": null,
     "versions": [
       {
-        "id": "1.1.0",
-        "releasedAt": 0
-      },
-        {
-        "id": "1.0.9",
+        "id": "1.0.0",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -16,7 +12,16 @@
             }
       },
         {
-        "id": "1.0.8",
+        "id": "1.0.1",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1RvDw4MVEvc1AjmPH6w0mEZbd7FBuASYv/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.2",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -25,7 +30,7 @@
             }
       },
         {
-        "id": "1.0.7",
+        "id": "1.0.3",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -34,7 +39,7 @@
             }
       },
         {
-        "id": "1.0.6",
+        "id": "1.0.4",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -52,7 +57,7 @@
             }
       },
         {
-        "id": "1.0.4",
+        "id": "1.0.6",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -61,7 +66,7 @@
             }
       },
         {
-        "id": "1.0.3",
+        "id": "1.0.7",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -70,7 +75,7 @@
             }
       },
         {
-        "id": "1.0.2",
+        "id": "1.0.8",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -79,7 +84,7 @@
             }
       },
         {
-        "id": "1.0.1",
+        "id": "1.0.9",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
@@ -88,7 +93,7 @@
             }
       },
         {
-        "id": "1.0.0",
+        "id": "1.1.0",
         "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
