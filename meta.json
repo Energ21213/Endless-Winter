@@ -8,10 +8,91 @@
       },
         {
         "id": "1.0.9",
-        "releasedAt": 1740699600000,
+        "releasedAt": 1740779363,
             "promotions": {
             "downloads": {
                 "generic": "https://drive.google.com/file/d/1RvDw4MVEvc1AjmPH6w0mEZbd7FBuASYv/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.8",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1fyRLXDd_O9cR9vBLjptaLOPFPkHLJLDz/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.7",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1ODFO5xciO3c8QrFH-dCuQ1jFFU8NPQTv/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.6",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1czQkwVxT58v9hFLxBNitoC5ICP9oNVsk/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.5",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1uDwj3spNwNpS-OE9A93VsJudMoztwEGp/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.4",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/13FFgLlbVdBiYAOdC2bTvrOnMzpSH92te/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.3",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/17UBm1-nmIQwwPaJL3_got9rGrpEbiS47/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.2",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1WCkUsjDLZGNElHtXFU0_cx1jAV2f2C4Q/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.1",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1scjFoZ4UjBrvCpZ5JvO6v28jzCe_eQgF/view?usp=sharing"
+            }
+            }
+      },
+        {
+        "id": "1.0.0",
+        "releasedAt": 1740779363,
+            "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1jjfEGO9EXP-HAoHQ6gYS8VYOci8IGmgb/view?usp=sharing"
             }
             }
       }
