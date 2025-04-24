@@ -1,3 +1,1 @@
 config/modpack-update-checker/config.json|668ef5aaa3b9c432041d64dae06155f5a07754724b3eff8ba960f9543540fb5f
-mods/sophisticatedcore-1.19.2-0.6.4.730.jar|cb191201bedf5a5e8dadd7e865f78dc59587c1977dd4fdf1a719d219bbadd51d
-mods/sophisticatedbackpacks-1.19.2-3.20.2.1035.jar|5e60919611b5d876d8de806cdeca4661ee000d8ce9cad747a259bbdb6730ef21
