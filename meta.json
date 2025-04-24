@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "hotfixesFormat": null,
+    "hotfixesFormat": 1,
     "versions": [
       {
         "id": "1.1.0",
