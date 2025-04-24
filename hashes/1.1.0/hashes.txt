@@ -1,1 +1,1 @@
-config/auditory.json|58c6b0fe17a674ae1160232ac7ff92bf11a6bd5415ee852339b11d5d5c974d7f
+config/modpack-update-checker/config.json|668ef5aaa3b9c432041d64dae06155f5a07754724b3eff8ba960f9543540fb5f
