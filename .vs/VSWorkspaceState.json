@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\versions",
+    "\\versions\\1.1.4"
   ],
+  "SelectedNode": "\\versions\\1.1.4\\changelog.txt",
   "PreviewInSolutionExplorer": false
 }
