@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1.1.5",
+  "modpackName": "§bEndless Winter",
+  "modpackAuthor": "§cShRm1X",
+  "modpackReleaseType": "beta",
+  "updateCheckerId": "https://raw.githubusercontent.com/Energ21213/Endless-Winter/main/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": [] 
+  }
+}
