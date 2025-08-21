@@ -4,68 +4,31 @@
     "versions": [
       {
         "id": "1.1.0.a",
-        "releasedAt": 1745355600000,
-            "promotions": {
-            "downloads": {
-                "generic": "https://drive.google.com/file/d/1Vc1cOTvcxkKZq_EL5a9lYvA8KZ03BFPe/view?usp=sharing"
-            }
-            }
-          
+        "releasedAt": 1745355600000      
       },
         {
         "id": "1.1.1.a",
-        "releasedAt": 1746579002000,
-            "promotions": {
-            "downloads": {
-                "generic": "https://drive.google.com/file/d/1zT-DqJ_UHXhkkblh1OYxADbY-B6QnS1c/view?usp=sharing"
-            }
-            }
-          
+        "releasedAt": 1746579002000  
       },
         {
         "id": "1.1.2.a",
-        "releasedAt": 1746759465000,
-            "promotions": {
-            "downloads": {
-                "generic": "https://drive.google.com/file/d/1hSpclxg_dnW3OTmKR5TRGzSmrboKFZ3w/view?usp=sharing"
-            }
-            }
-          
+        "releasedAt": 1746759465000    
       },
         {
         "id": "1.1.3.a",
-        "releasedAt": 1747137422000,
-            "promotions": {
-            "downloads": {
-                "generic": "https://drive.google.com/file/d/1eWeMwDU1uxJOQYl_EbiA2WbiWFyHxIPH/view?usp=sharing"
-            }
-            }
-          
+        "releasedAt": 1747137422000       
       },
       {
         "id": "1.1.4.a",
-        "releasedAt": 1749056534000,
-            "promotions": {
-            "downloads": {
-                "generic": "https://www.dropbox.com/scl/fi/4s3z9zdkc4o8z8ambbmos/Endless_Winter_1.1.4_beta.rar?rlkey=v4in1syjpk96mzvb7dkoq7l15&st=i136skon&dl=0"
-            }
-            }
-          
+        "releasedAt": 1749056534000
       },
       {
         "id": "1.1.4.a_hotfix",
-        "releasedAt": 1749134159000,
-            "promotions": {
-            }
+        "releasedAt": 1749134159000
       },
       {
         "id": "1.1.5.a",
-        "releasedAt": 1751722339000,
-            "promotions": {
-            "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/endless-winter-dev/files"
-            }
-            }
+        "releasedAt": 1751722339000
       }
     ]
 }
