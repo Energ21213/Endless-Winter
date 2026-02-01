@@ -3,36 +3,8 @@
     "hotfixesFormat": null,
     "versions": [
       {
-        "id": "1.1.0.a",
+        "id": "1.0.0.a",
         "releasedAt": 1745355600000      
-      },
-        {
-        "id": "1.1.1.a",
-        "releasedAt": 1746579002000  
-      },
-        {
-        "id": "1.1.2.a",
-        "releasedAt": 1746759465000    
-      },
-        {
-        "id": "1.1.3.a",
-        "releasedAt": 1747137422000       
-      },
-      {
-        "id": "1.1.4.a",
-        "releasedAt": 1749056534000
-      },
-      {
-        "id": "1.1.4.a_hotfix",
-        "releasedAt": 1749134159000
-      },
-      {
-        "id": "1.1.5.a",
-        "releasedAt": 1751722339000
-      },
-      {
-        "id": "1.1.6.a",
-        "releasedAt": 1755770765000
       }
     ]
 }
