@@ -5,4 +5,4 @@
 
 - Picking up shards of ice now has a chance to cut you
 
-- The spawn chance of the "Tumbler" creature has been temporarily halved
+- The spawn chance of the "Tumbler" creature has been temporarily and significantly reduced
