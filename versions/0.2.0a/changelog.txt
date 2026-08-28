@@ -1,0 +1,4 @@
+- Redesign of the regular snowball icon/texture
+- Redesign of the ice shards icon/texture
+- Redesign of the pebbles icon/texture
+- Picking up ice shards now has a chance to cut you
